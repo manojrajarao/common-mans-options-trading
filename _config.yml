@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            A Common Man\'s Guide to Trading Options
 locale:           en_US
-url:              
+url:             http://manojrajarao.github.io/commons-mans-options-trading
 
 
 # Jekyll configuration
