@@ -16,28 +16,20 @@ Start by modifying or creating a new `authors.yml` file in the `_data` folder an
 {% highlight yaml %}
 # Authors
 
-billy_rick:
-  name: Billy Rick
-  web: http://thewhip.com
-  email: billy@rick.com
-  bio: "What do you want, jewels? I am a very extravagant man."
+manoj_rao:
+  name: Manoj Rao
+  web: http://manojrajarao.com
+  email: manoj@manorajarao.com
+  bio: "Your Average Common Man"
   avatar: bio-photo-2.jpg
-  twitter: extravagantman
+  twitter: manojrajarao
   google:
-    plus: BillyRick
+    plus: Manoj Raja Rao
 
-cornelius_fiddlebone:
-  name: Cornelius Fiddlebone
-  email: cornelius@thewhip.com
-  bio: "I ordered what?"
-  avatar: bio-photo.jpg
-  twitter: rhymeswithsackit
-  google:
-    plus: CorneliusFiddlebone
 {% endhighlight %}
 
-To assign Billy Rick as an author for our post. You'd add the following YAML front matter to a post:
+To assign Manoj Rao as an author for our post. You'd add the following YAML front matter to a post:
 
 {% highlight yaml %}
-author: billy_rick
+author: manoj_rao
 {% endhighlight %}
