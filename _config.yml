@@ -2,7 +2,8 @@
 
 title:            A Common Man's Guide to Trading Options
 locale:           en_US
-url:             http://manojrajarao.github.io/common-mans-options-trading
+#url:             http://manojrajarao.github.io/common-mans-options-trading
+url:             http://localhost:4000
 
 
 # Jekyll configuration
@@ -28,7 +29,7 @@ kramdown:
 owner:
   name: Manoj Raja Rao
   avatar: bio-photo.jpg
-  bio: "You Average Common Man"
+  bio: "Your Average Common Man"
   email: manoj@manojrajarao.com
   disqus-shortname: 
   twitter: manojrajarao
